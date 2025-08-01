@@ -10,7 +10,7 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "dakusui/bash"
-brew "<formula>"
+brew install "<formula>"
 ```
 
 ## Documentation
